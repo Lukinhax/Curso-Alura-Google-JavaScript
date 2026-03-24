@@ -10,6 +10,14 @@ O repositório apresenta tanto o projeto base desenvolvido em aula quanto a minh
 
 Desenvolvido durante as sessões guiadas, este projeto serviu como base para compreender a estrutura fundamental de um sistema de busca funcional no Front-End.
 
+### 📸 Preview do Projeto de Aula
+
+<p align="center">
+  <img src="img/modeloAula.png" alt="preview do projeto de aula" width="80%">
+</p>
+
+---
+
 - **Objetivo**: Criar uma interface simples para busca de informações sobre atletas brasileiros.  
 - **Funcionalidades**: Filtragem de dados e exibição de resultados em tempo real.  
 - **Foco Técnico**: Manipulação do DOM e integração básica entre arquivos JS e HTML.  
@@ -21,7 +29,12 @@ Desenvolvido durante as sessões guiadas, este projeto serviu como base para com
 Baseado nos conhecimentos da imersão e com o auxílio do **Google Gemini** para estruturação e geração de ideias, desenvolvi o **Gaia Energy**. Este projeto foca na disseminação de informações sobre tecnologias de energia renovável.
 
 ### 📸 Preview do Gaia Energy
-*(Adicione aqui o link ou a imagem do seu projeto funcionando)*
+
+<p align="center">
+  <img src="img/gaiaEnergy.png" alt="preview do projeto pessoal" width="80%">
+</p>
+
+---
 
 ### 🚀 Funcionalidades
 
